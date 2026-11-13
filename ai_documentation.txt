@@ -1,0 +1,8 @@
+
+==============================================================
+Parts d-f (stop data)
+AI tool: Claude (Anthropic), model Claude Sonnet 5.5 (claude-sonnet-5-5), via Claude Code / claude.ai
+==============================================================
+
+Prompt 1: "What did my teammate work on?" (with the project instructions and the GitHub repo link attached)
+Output: A summary of the repo's commit history by author (collision data work by jeffreyhding: raw data, codebook, replications of Collision Totals, Primary Collision Factors, Top collision locations, Makefile and written report), and what remained (stop data parts d-f).
